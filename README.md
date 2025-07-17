@@ -27,4 +27,9 @@ This tool processes all `.mp4` videos in a specified directory (including subdir
 - Images very similar to the previous snapshot are skipped.
 - If no videos are found, a message is displayed.
 
-## Example
+## Contribute
+Please Contribute
+
+paypal.me/smuthus
+
+Email : smuthus333@gmail.com
